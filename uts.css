@@ -1,0 +1,134 @@
+table {
+	text-align: center;
+}
+
+td {
+	width: 40px;
+	height: 40px;
+}
+
+td input {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.block {
+	background-color: #000;
+}
+
+<table class=" tabel">
+<tr>
+    <td class="block"><input class="d1" type="text" maxlength="1"></td>
+    <td class="block"><input class="d1 m1" type="text" maxlength="1"></td>
+    <td class="block"><input class="d1" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"><input class="d2" type="text" maxlength="1"></td>
+    <td class="block"><input class="d2 m2" type="text" maxlength="1"></td>
+    <td class="block"><input class="d2" type="text" maxlength="1"></td>
+    <td class="block"><input class="d2" type="text" maxlength="1"></td>
+    <td class="block"><input class="d2" type="text" maxlength="1"></td>
+</tr>
+<tr>
+
+    <td class="block"></td>
+    <td class="block"><input class="m1" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"><input class="m2" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+</tr>
+
+
+<tr>
+
+    <td class="block"></td>
+    <td class="block"><input class="m1 d3"type="text" maxlength="1"></td>
+    <td class="block"><input class="d3" type="text" maxlength="1"></td>
+    <td class="block"><input class="d3" type="text" maxlength="1"></td>
+    <td class="block"><input class="d3 m3" type="text" maxlength="1"></td>
+    <td class="block"><input class="d3 m2" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+</tr>
+
+<tr>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"><input class="m3" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+</tr>
+
+<tr>
+    <td class="block"><input class="m4" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"><input class="d4" type="text" maxlength="1"></td>
+    <td class="block"><input class="d4" type="text" maxlength="1"></td>
+    <td class="block"><input class="d4 m3" type="text" maxlength="1"></td>
+    <td class="block"><input class="d4" type="text" maxlength="1"></td>
+    <td class="block"><input class="d4" type="text" maxlength="1"></td>
+    <td class="block"><input class="d4 m5" type="text" maxlength="1"></td>
+    <td class="block"><input class="d4" type="text" maxlength="1"></td>
+</tr>
+
+<tr>
+    <td class="block"><input class="m4" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"><input class="m5" type="text" maxlength="1"></td>
+    <td class="block"></td>
+</tr>
+
+<tr>
+    <td class="block"><input class="m4" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"><input class="d5 m6" type="text" maxlength="1"></td>
+    <td class="block"><input class="d5" type="text" maxlength="1"></td>
+    <td class="block"><input class="d5" type="text" maxlength="1"></td>
+    <td class="block"><input class="d5" type="text" maxlength="1"></td>
+    <td class="block"><input class="d5 m5" type="text" maxlength="1"></td>
+    <td class="block"></td>
+</tr>
+
+<tr>
+    <td class="block"><input class="m4" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"><input class="m6" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"></td>
+    <td class="block"><input class="m5" type="text" maxlength="1"></td>
+    <td class="block"></td>
+
+</tr>
+
+<tr>
+    <td class="block"><input class="m4 d6" type="text" maxlength="1"></td>
+    <td class="block"><input class="d6" type="text" maxlength="1"></td>
+    <td class="block"><input class="d6" type="text" maxlength="1"></td>
+    <td class="block"><input class="d6 m6" type="text" maxlength="1"></td>
+    <td class="block"></td>
+    <td class="block"><input class="d7" type="text" maxlength="1"></td>
+    <td class="block"><input class="d7" type="text" maxlength="1"></td>
+    <td class="block"><input class="d7 m5" type="text" maxlength="1"></td>
+    <td class="block"><input class="d7" type="text" maxlength="1"></td>
+
+</tr>
+</table>
